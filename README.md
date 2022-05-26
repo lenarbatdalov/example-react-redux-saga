@@ -2,7 +2,7 @@
 
 ## директория redux
 простой пример работы с redux
-```bash
+```sh
 cd redux && npm i && npm start
 ```
 <a href="http://localhost:3000" target="_blank">localhost:3000</a>
@@ -12,7 +12,7 @@ cd redux && npm i && npm start
 
 ## директория redux-saga
 простой пример работы с redux-saga
-```
+```sh
 cd redux-saga && npm i && npm start
 ```
 <a href="http://localhost:3000" target="_blank">localhost:3000</a>
